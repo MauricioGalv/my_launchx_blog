@@ -7,10 +7,10 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, esta es una breve descripción sobre mi
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
+> Me llamo Mauricio Galván, actualmente soy estudiante de la carrera de Ingeniería en Sistemas Computacionales
+> Soy un estusiasta de la tecnología y el arte, y me encuentro formando mis habilidades en estos campos
 > mittere Erymanthon habetque tot.
 
 **Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
