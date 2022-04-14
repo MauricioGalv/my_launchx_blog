@@ -8,3 +8,5 @@ Esto es lo que he aprendido en el programa:
 
 - Python
 - Programación web (HTML, CSS y Javascript)
+- Github
+- Jupyter Notebooks
